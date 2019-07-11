@@ -1,2 +1,2 @@
-# Gideon Jones React Portfolio Applicatoin
+# Gideon Jones React Portfolio Application
 
